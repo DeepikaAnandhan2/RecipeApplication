@@ -1,6 +1,7 @@
 **Recipe Data Collection and API Development**
 
 **Task Overview**
+
 1.Parse the JSON Data
 
 The first step is to implement a script or module to read and parse the provided JSON file
@@ -14,7 +15,7 @@ structure of the JSON data, including nested nutrients information.
 
 
 3. API Development
-4. 
+
 Developed a RESTful API to manage the recipe data, including endpoints for creating and
 querying recipes.
 
